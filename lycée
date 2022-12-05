@@ -1,0 +1,1233 @@
+<!DOCTYPE html>
+<!-- saved from url=(0021)https://monlycee.net/ -->
+<html lang="fr-FR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" id="www-widgetapi-script" src="./MonLycee.net_files/www-widgetapi.js.télécharger" async=""></script><script src="./MonLycee.net_files/iframe_api" id="YTAPI"></script>
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+                <title>MonLycee.net</title>
+
+
+
+
+<style>
+             /* Site Title & Tagline */
+        .site-title a{
+            color: #061018;
+        }
+        .dark .site-title a {
+            color: #061018;
+        }
+        .site-title a:hover{
+            color: #00afec;
+        }
+        .dark .site-title a:hover {
+            color: #00afec;
+        }
+        .site-description{
+            color: #1c314c !important;
+        }
+        .site-description:hover{
+            color: #00afec !important;
+        }
+    
+    
+    /* Primary Menu */
+    
+    /* Banner */
+    .page-title h1{
+        color: #f8f8f8!important;
+    }
+
+     /* Breadcrumb */
+       
+    /* Content */
+    body h1 {
+        color: #1c314c ;
+    }
+    body.dark h1
+    {
+        color: #ffffff ;
+    }
+    body .section-header h2:not(.section-title), body h2:not(.section-title){
+        color: #1c314c;
+    }
+    body.dark h2
+    {
+        color: #ffffff ;
+    }
+    body h3,.home-blog h3 a{
+        color: #1c314c;
+    }
+    body.dark h3
+    {
+        color: #ffffff ;
+    }
+    body .entry-header h4 > a:not(.single-post .entry-header .entry-title > a), body h4 {
+        color: #1c314c;
+    }
+    body.dark h4
+    {
+        color: #ffffff ;
+    }
+    body .blog-author h5, body .comment-detail h5, body h5:not(.section-subtitle), .section-space.services .entry-title a  {
+        color: #1c314c;
+    }
+    body.dark h5
+    {
+        color: #ffffff ;
+    }
+    body .product-price h5 > a{
+        color: #22a2c4;
+    }
+
+    body h6 {
+        color: #1c314c;
+    }
+    body.dark h6
+    {
+        color: #ffffff ;
+    }
+    p:not(.woocommerce-mini-cart__total,.site-description) {
+        color: #777777;
+    }
+    .dark .entry-content p {
+    color: #999999;
+    }
+     .dark .entry-content table {
+    color: #999999;
+    }
+     .dark .entry-content dl {
+    color: #999999;
+    }
+    .dark .wp-block-image figcaption {
+    color: #999999;
+    }
+    .dark .entry-content ul, .dark .entry-content ol {
+    color: #999999;
+    }
+    .dark .entry-content address {
+    color: #999999;
+    }
+
+    /* Sidebar */
+    
+    /* Footer Widgets */
+    .footer-sidebar .widget_text p{
+        color: #ffffff;
+    }
+            .site-footer p {
+            color: #fff;
+        }
+    .custom-logo{width: 220px; height: auto;}
+.busicare_header_btn{ -webkit-border-radius: 30px;border-radius: 30px;}
+   #content .container{max-width: 1503px;}
+   #wrapper .site-footer .container{max-width: 1140px;}
+</style><meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<link rel="alternate" type="application/rss+xml" title="MonLycee.net » Flux" href="https://monlycee.net/index.php/feed/">
+<link rel="alternate" type="application/rss+xml" title="MonLycee.net » Flux des commentaires" href="https://monlycee.net/index.php/comments/feed/">
+<!-- GOOGLE FONTS REQUEST FAILED for https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=ABeeZee&family=Abel&family=Abril+Fatface&family=Aclonica&family=Acme&family=Actor&family=Adamina&family=Advent+Pro&family=Aguafina+Script&family=Akronim&family=Aladin&family=Aldrich&family=Alef&family=Alegreya&family=Alegreya+SC&family=Alegreya+Sans&family=Alegreya+Sans+SC&family=Alex+Brush&family=Alfa+Slab+One&family=Alice&family=Alike&family=Alike+Angular&family=Allan&family=Allerta&family=Allerta+Stencil&family=Allura&family=Almendra&family=Almendra+Display&family=Almendra+SC&family=Amarante&family=Amaranth&family=Amatic+SC&family=Amatica+SC&family=Amethysta&family=Amiko&family=Amiri&family=Amita&family=Anaheim&family=Andada&family=Andika&family=Angkor&family=Annie+Use+Your+Telescope&family=Anonymous+Pro&family=Antic&family=Antic+Didone&family=Antic+Slab&family=Anton&family=Arapey&family=Arbutus&family=Arbutus+Slab&family=Architects+Daughter&family=Archivo+Black&family=Archivo+Narrow&family=Aref+Ruqaa&family=Arima+Madurai&family=Arimo&family=Arizonia&family=Armata&family=Artifika&family=Arvo&family=Arya&family=Asap&family=Asar&family=Asset&family=Assistant&family=Astloch&family=Asul&family=Athiti&family=Atma&family=Atomic+Age&family=Aubrey&family=Audiowide&family=Autour+One&family=Average&family=Average+Sans&family=Averia+Gruesa+Libre&family=Averia+Libre&family=Averia+Sans+Libre&family=Averia+Serif+Libre&family=Bad+Script&family=Baloo&family=Baloo+Bhai&family=Baloo+Da&family=Baloo+Thambi&family=Balthazar&family=Bangers&family=Basic&family=Battambang&family=Baumans&family=Bayon&family=Belgrano&family=Belleza&family=BenchNine&family=Bentham&family=Berkshire+Swash&family=Bevan&family=Bigelow+Rules&family=Bigshot+One&family=Bilbo&family=Bilbo+Swash+Caps&family=BioRhyme&family=BioRhyme+Expanded&family=Biryani&family=Bitter&family=Black+Ops+One&family=Bokor&family=Bonbon&family=Boogaloo&family=Bowlby+One&family=Bowlby+One+SC&family=Brawler&family=Bree+Serif&family=Bubblegum+Sans&family=Bubbler+One&family=Buda&family=Buenard&family=Bungee&family=Bungee+Hairline&family=Bungee+Inline&family=Bungee+Outline&family=Bungee+Shade&family=Butcherman&family=Butterfly+Kids&family=Cabin&family=Cabin+Condensed&family=Cabin+Sketch&family=Caesar+Dressing&family=Cagliostro&family=Cairo&family=Calligraffitti&family=Cambay&family=Cambo&family=Candal&family=Cantarell&family=Cantata+One&family=Cantora+One&family=Capriola&family=Cardo&family=Carme&family=Carrois+Gothic&family=Carrois+Gothic+SC&family=Carter+One&family=Catamaran&family=Caudex&family=Caveat&family=Caveat+Brush&family=Cedarville+Cursive&family=Ceviche+One&family=Changa&family=Changa+One&family=Chango&family=Chathura&family=Chau+Philomene+One&family=Chela+One&family=Chelsea+Market&family=Chenla&family=Cherry+Cream+Soda&family=Cherry+Swash&family=Chewy&family=Chicle&family=Chivo&family=Chonburi&family=Cinzel&family=Cinzel+Decorative&family=Clicker+Script&family=Coda&family=Coda+Caption&family=Codystar&family=Coiny&family=Combo&family=Comfortaa&family=Coming+Soon&family=Concert+One&family=Condiment&family=Content&family=Contrail+One&family=Convergence&family=Cookie&family=Copse&family=Corben&family=Cormorant&family=Cormorant+Garamond&family=Cormorant+Infant&family=Cormorant+SC&family=Cormorant+Unicase&family=Cormorant+Upright&family=Courgette&family=Cousine&family=Coustard&family=Covered+By+Your+Grace&family=Crafty+Girls&family=Creepster&family=Crete+Round&family=Crimson+Text&family=Croissant+One&family=Crushed&family=Cuprum&family=Cutive&family=Cutive+Mono&family=Damion&family=Dancing+Script&family=Dangrek&family=David+Libre&family=Dawning+of+a+New+Day&family=Days+One&family=Dekko&family=Delius&family=Delius+Swash+Caps&family=Delius+Unicase&family=Della+Respira&family=Denk+One&family=Devonshire&family=Dhurjati&family=Didact+Gothic&family=Diplomata&family=Diplomata+SC&family=Domine&family=Donegal+One&family=Doppio+One&family=Dorsa&family=Dosis&family=Dr+Sugiyama&family=Droid+Sans&family=Droid+Sans+Mono&family=Droid+Serif&family=Duru+Sans&family=Dynalight&family=EB+Garamond&family=Eagle+Lake&family=Eater&family=Economica&family=Eczar&family=Ek+Mukta&family=El+Messiri&family=Electrolize&family=Elsie&family=Elsie+Swash+Caps&family=Emblema+One&family=Emilys+Candy&family=Engagement&family=Englebert&family=Enriqueta&family=Erica+One&family=Esteban&family=Euphoria+Script&family=Ewert&family=Exo&family=Exo+2&family=Expletus+Sans&family=Fanwood+Text&family=Farsan&family=Fascinate&family=Fascinate+Inline&family=Faster+One&family=Fasthand&family=Fauna+One&family=Federant&family=Federo&family=Felipa&family=Fenix&family=Finger+Paint&family=Fira+Mono&family=Fira+Sans&family=Fjalla+One&family=Fjord+One&family=Flamenco&family=Flavors&family=Fondamento&family=Fontdiner+Swanky&family=Forum&family=Francois+One&family=Frank+Ruhl+Libre&family=Freckle+Face&family=Fredericka+the+Great&family=Fredoka+One&family=Freehand&family=Fresca&family=Frijole&family=Fruktur&family=Fugaz+One&family=GFS+Didot&family=GFS+Neohellenic&family=Gabriela&family=Gafata&family=Galada&family=Galdeano&family=Galindo&family=Gentium+Basic&family=Gentium+Book+Basic&family=Geo&family=Geostar&family=Geostar+Fill&family=Germania+One&family=Gidugu&family=Gilda+Display&family=Give+You+Glory&family=Glass+Antiqua&family=Glegoo&family=Gloria+Hallelujah&family=Goblin+One&family=Gochi+Hand&family=Gorditas&family=Goudy+Bookletter+1911&family=Graduate&family=Grand+Hotel&family=Gravitas+One&family=Great+Vibes&family=Griffy&family=Gruppo&family=Gudea&family=Gurajada&family=Habibi&family=Halant&family=Hammersmith+One&family=Hanalei&family=Hanalei+Fill&family=Handlee&family=Hanuman&family=Happy+Monkey&family=Harmattan&family=Headland+One&family=Heebo&family=Henny+Penny&family=Herr+Von+Muellerhoff&family=Hind&family=Hind+Guntur&family=Hind+Madurai&family=Hind+Siliguri&family=Hind+Vadodara&family=Holtwood+One+SC&family=Homemade+Apple&family=Homenaje&family=IM+Fell+DW+Pica&family=IM+Fell+DW+Pica+SC&family=IM+Fell+Double+Pica&family=IM+Fell+Double+Pica+SC&family=IM+Fell+English&family=IM+Fell+English+SC&family=IM+Fell+French+Canon&family=IM+Fell+French+Canon+SC&family=IM+Fell+Great+Primer&family=IM+Fell+Great+Primer+SC&family=Iceberg&family=Iceland&family=Imprima&family=Inconsolata&family=Inder&family=Indie+Flower&family=Inika&family=Inknut+Antiqua&family=Irish+Grover&family=Istok+Web&family=Italiana&family=Italianno&family=Itim&family=Jacques+Francois&family=Jacques+Francois+Shadow&family=Jaldi&family=Jim+Nightshade&family=Jockey+One&family=Jolly+Lodger&family=Jomhuria&family=Josefin+Sans&family=Josefin+Slab&family=Joti+One&family=Judson&family=Julee&family=Julius+Sans+One&family=Junge&family=Jura&family=Just+Another+Hand&family=Just+Me+Again+Down+Here&family=Kadwa&family=Kalam&family=Kameron&family=Kanit&family=Kantumruy&family=Karla&family=Karma&family=Katibeh&family=Kaushan+Script&family=Kavivanar&family=Kavoon&family=Kdam+Thmor&family=Keania+One&family=Kelly+Slab&family=Kenia&family=Khand&family=Khmer&family=Khula&family=Kite+One&family=Knewave&family=Kotta+One&family=Koulen&family=Kranky&family=Kreon&family=Kristi&family=Krona+One&family=Kumar+One&family=Kumar+One+Outline&family=Kurale&family=La+Belle+Aurore&family=Laila&family=Lakki+Reddy&family=Lalezar&family=Lancelot&family=Lateef&family=Lato&family=League+Script&family=Leckerli+One&family=Ledger&family=Lekton&family=Lemon&family=Lemonada&family=Libre+Baskerville&family=Libre+Franklin&family=Life+Savers&family=Lilita+One&family=Lily+Script+One&family=Limelight&family=Linden+Hill&family=Lobster&family=Lobster+Two&family=Londrina+Outline&family=Londrina+Shadow&family=Londrina+Sketch&family=Londrina+Solid&family=Lora&family=Love+Ya+Like+A+Sister&family=Loved+by+the+King&family=Lovers+Quarrel&family=Luckiest+Guy&family=Lusitana&family=Lustria&family=Macondo&family=Macondo+Swash+Caps&family=Mada&family=Magra&family=Maiden+Orange&family=Maitree&family=Mako&family=Mallanna&family=Mandali&family=Marcellus&family=Marcellus+SC&family=Marck+Script&family=Margarine&family=Marko+One&family=Marmelad&family=Martel&family=Martel+Sans&family=Marvel&family=Mate&family=Mate+SC&family=Maven+Pro&family=McLaren&family=Meddon&family=MedievalSharp&family=Medula+One&family=Meera+Inimai&family=Megrim&family=Meie+Script&family=Merienda&family=Merienda+One&family=Merriweather&family=Merriweather+Sans&family=Metal&family=Metal+Mania&family=Metamorphous&family=Metrophobic&family=Michroma&family=Milonga&family=Miltonian&family=Miltonian+Tattoo&family=Miniver&family=Miriam+Libre&family=Mirza&family=Miss+Fajardose&family=Mitr&family=Modak&family=Modern+Antiqua&family=Mogra&family=Molengo&family=Molle&family=Monda&family=Monofett&family=Monoton&family=Monsieur+La+Doulaise&family=Montaga&family=Montez&family=Montserrat&family=Montserrat+Alternates&family=Montserrat+Subrayada&family=Moul&family=Moulpali&family=Mountains+of+Christmas&family=Mouse+Memoirs&family=Mr+Bedfort&family=Mr+Dafoe&family=Mr+De+Haviland&family=Mrs+Saint+Delafield&family=Mrs+Sheppards&family=Mukta+Vaani&family=Muli&family=Mystery+Quest&family=NTR&family=Neucha&family=Neuton&family=New+Rocker&family=News+Cycle&family=Niconne&family=Nixie+One&family=Nobile&family=Nokora&family=Norican&family=Nosifer&family=Nothing+You+Could+Do&family=Noticia+Text&family=Noto+Sans&family=Noto+Serif&family=Nova+Cut&family=Nova+Flat&family=Nova+Mono&family=Nova+Oval&family=Nova+Round&family=Nova+Script&family=Nova+Slim&family=Nova+Square&family=Numans&family=Nunito&family=Odor+Mean+Chey&family=Offside&family=Old+Standard+TT&family=Oldenburg&family=Oleo+Script&family=Oleo+Script+Swash+Caps&family=Open+Sans+Condensed&family=Oranienbaum&family=Orbitron&family=Oregano&family=Orienta&family=Original+Surfer&family=Oswald&family=Over+the+Rainbow&family=Overlock&family=Overlock+SC&family=Ovo&family=Oxygen&family=Oxygen+Mono&family=PT+Mono&family=PT+Sans&family=PT+Sans+Caption&family=PT+Sans+Narrow&family=PT+Serif&family=PT+Serif+Caption&family=Pacifico&family=Palanquin&family=Palanquin+Dark&family=Paprika&family=Parisienne&family=Passero+One&family=Passion+One&family=Pathway+Gothic+One&family=Patrick+Hand&family=Patrick+Hand+SC&family=Pattaya&family=Patua+One&family=Pavanam&family=Paytone+One&family=Peddana&family=Peralta&family=Permanent+Marker&family=Petit+Formal+Script&family=Petrona&family=Philosopher&family=Piedra&family=Pinyon+Script&family=Pirata+One&family=Plaster&family=Play&family=Playball&family=Playfair+Display&family=Playfair+Display+SC&family=Podkova&family=Poiret+One&family=Poller+One&family=Poly&family=Pompiere&family=Pontano+Sans&family=Poppins&family=Port+Lligat+Sans&family=Port+Lligat+Slab&family=Pragati+Narrow&family=Prata&family=Preahvihear&family=Press+Start+2P&family=Pridi&family=Princess+Sofia&family=Prociono&family=Prompt&family=Prosto+One&family=Proza+Libre&family=Puritan&family=Purple+Purse&family=Quando&family=Quantico&family=Quattrocento&family=Quattrocento+Sans&family=Questrial&family=Quicksand&family=Quintessential&family=Qwigley&family=Racing+Sans+One&family=Radley&family=Rajdhani&family=Rakkas&family=Raleway&family=Raleway+Dots&family=Ramabhadra&family=Ramaraja&family=Rambla&family=Rammetto+One&family=Ranchers&family=Rancho&family=Ranga&family=Rasa&family=Rationale&family=Redressed&family=Reem+Kufi&family=Reenie+Beanie&family=Revalia&family=Rhodium+Libre&family=Ribeye&family=Ribeye+Marrow&family=Righteous&family=Risque&family=Roboto&family=Roboto+Condensed&family=Roboto+Mono&family=Roboto+Slab&family=Rochester&family=Rock+Salt&family=Rokkitt&family=Romanesco&family=Ropa+Sans&family=Rosario&family=Rosarivo&family=Rouge+Script&family=Rozha+One&family=Rubik&family=Rubik+Mono+One&family=Rubik+One&family=Ruda&family=Rufina&family=Ruge+Boogie&family=Ruluko&family=Rum+Raisin&family=Ruslan+Display&family=Russo+One+=>+Russo+One&family=Ruthie&family=Rye&family=Sacramento&family=Sahitya&family=Sail&family=Salsa&family=Sanchez&family=Sancreek&family=Sansita+One&family=Sarala&family=Sarina&family=Sarpanch&family=Satisfy&family=Scada&family=Scheherazade&family=Schoolbell&family=Scope+One&family=Seaweed+Script&family=Secular+One&family=Sevillana&family=Seymour+One&family=Shadows+Into+Light&family=Shadows+Into+Light+Two&family=Shanti&family=Share&family=Share+Tech&family=Share+Tech+Mono&family=Shojumaru&family=Short+Stack&family=Shrikhand&family=Siemreap&family=Sigmar+One&family=Signika&family=Signika+Negative&family=Simonetta&family=Sintony&family=Sirin+Stencil&family=Six+Caps&family=Skranji&family=Slabo+13px&family=Slabo+27px&family=Slackey&family=Smokum&family=Smythe&family=Sniglet&family=Snippet&family=Snowburst+One&family=Sofadi+One&family=Sofia&family=Sonsie+One&family=Sorts+Mill+Goudy&family=Source+Code+Pro&family=Source+Sans+Pro&family=Source+Serif+Pro&family=Space+Mono&family=Special+Elite&family=Spicy+Rice&family=Spinnaker&family=Spirax&family=Squada+One&family=Sree+Krushnadevaraya&family=Sriracha&family=Stalemate&family=Stalinist+One&family=Stardos+Stencil&family=Stint+Ultra+Condensed&family=Stint+Ultra+Expanded&family=Stoke&family=Strait&family=Sue+Ellen+Francisco&family=Suez+One&family=Sumana&family=Sunshiney&family=Supermercado+One&family=Sura&family=Suranna&family=Suravaram&family=Suwannaphum&family=Swanky+and+Moo+Moo&family=Syncopate&family=Tangerine&family=Taprom&family=Tauri&family=Taviraj&family=Teko&family=Telex&family=Tenali+Ramakrishna&family=Tenor+Sans&family=Text+Me+One&family=The+Girl+Next+Door&family=Tienne&family=Tillana&family=Timmana&family=Tinos&family=Titan+One&family=Titillium+Web&family=Trade+Winds&family=Trirong&family=Trocchi&family=Trochut&family=Trykker&family=Tulpen+One&family=Ubuntu&family=Ubuntu+Condensed&family=Ubuntu+Mono&family=Ultra&family=Uncial+Antiqua&family=Underdog&family=Unica+One&family=UnifrakturCook&family=UnifrakturMaguntia&family=Unkempt&family=Unlock&family=Unna&family=VT323&family=Vampiro+One&family=Varela&family=Varela+Round&family=Vast+Shadow&family=Vesper+Libre&family=Vibur&family=Vidaloka&family=Viga&family=Voces&family=Volkhov&family=Vollkorn&family=Voltaire&family=Waiting+for+the+Sunrise&family=Wallpoet&family=Walter+Turncoat&family=Warnes&family=Wellfleet&family=Wendy+One&family=Wire+One&family=Work+Sans&family=Yanone+Kaffeesatz&family=Yantramanav&family=Yatra+One&family=Yellowtail&family=Yeseva+One&family=Yesteryear&family=Yrsa&family=Zeyada&display=swap -->
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="0-css" href="./MonLycee.net_files/css2" type="text/css" media="all">
+<link rel="stylesheet" id="wpo_min-header-0-css" href="./MonLycee.net_files/wpo-minify-header-b0f74b0d.min.css" type="text/css" media="all">
+<script type="text/javascript" id="wpo_min-header-0-js-extra">
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#61a229","button_1_button_hover":"#4e8221","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#dedfe0","button_3_button_hover":"#b2b2b3","button_3_link_colour":"#333333","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#dedfe0","button_4_button_hover":"#b2b2b3","button_4_link_colour":"#333333","button_4_as_button":"1","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"1","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"1","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/monlycee.net\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./MonLycee.net_files/wpo-minify-header-42c11faf.min.js.télécharger" id="wpo_min-header-0-js"></script>
+<link rel="https://api.w.org/" href="https://monlycee.net/index.php/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://monlycee.net/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://monlycee.net/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 6.1.1">
+		<!-- Custom Logo: hide header text -->
+		<style id="custom-logo-css" type="text/css">
+			.site-title, .site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+		</style>
+		    <script type="text/javascript">
+
+        
+
+    </script>
+<link rel="icon" href="https://monlycee.net/wp-content/uploads/2022/01/monlyceenet-carre-150x150.png" sizes="32x32">
+<link rel="icon" href="https://monlycee.net/wp-content/uploads/2022/01/monlyceenet-carre.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://monlycee.net/wp-content/uploads/2022/01/monlyceenet-carre.png">
+<meta name="msapplication-TileImage" content="https://monlycee.net/wp-content/uploads/2022/01/monlyceenet-carre.png">
+		<style type="text/css" id="wp-custom-css">
+			/* Customisation page d'accueil*/
+.col-lg-8, .col-md-7, .col-sm-12, .standard-view {
+	display:grid;
+}
+article{
+margin-right:0.5em
+}
+.blog .post.sticky, .blog .post.sticky:hover {
+    background-color: rgba(0, 177, 236, 0.1) !important;
+	max-width:100%;
+	border:3px solid rgba(0, 177, 236, 0.8);
+	grid-row: 1 / 3;
+	grid-column: 1 / 3;
+}
+/*Customisation générale*/
+.sidebar .widget{
+	border-radius:3px;
+}
+.busicare_header_btn:hover{
+		background-color:#005F7F;
+}
+.blog .post:hover {
+    box-shadow: 0 0 3px 1px rgba(0, 177, 236, 0.2);
+}
+.page-title-section {
+	background:url(https://monlycee.net/wp-content/uploads/2022/01/image10-e1641832161611.png);
+	background-position:bottom center;
+	background-size:cover;
+	position:relative;
+}
+.entry-meta .tag-links a {
+	background-color:#F8F8F8;
+	color:#1c314c;
+	padding: 0.3rem 1.25rem;
+	border:1px solid #E9E9E9;
+	font-size:0.875rem; 
+	font-weight:100;
+	display:inline-block;
+	margin:0.2rem 0.2rem;
+}
+.entry-meta .tag-links a:hover {
+	background-color:#00afec;
+	color:white;
+}
+
+/*Customisation champ de recherche*/
+input[type="search"]{
+	background-color:white;
+}
+input#s.form-control {
+	border-radius:50px; 
+	box-shadow:0px 0px 5px 0px rgba(0, 177, 236, 0.4);
+	border-color:white;
+}
+.sidebar .widget .search-submit{
+	border-radius:50px;
+}
+.sidebar .widget .search-submit:hover{
+	background-color:#005F7F;
+}
+/*Customisation header*/
+.header-logo{
+	position:absolute;
+	z-index:1;
+}
+.navbar{
+	padding-top:0.5rem;
+	padding-bottom:0.5rem;
+}
+
+/*Customisation footer*/
+.site-info{
+	display:none;
+}
+.footer-sidebar.footer-typo  {
+    padding: 1.3rem 0;
+}
+.footer-sidebar {
+	align-items: center;
+}
+.footer-sidebar.footer-typo .widget  {
+    padding: 0 0;
+}
+.footer-sidebar .wp-block-image{
+	max-width:30%;
+	margin-bottom:0;
+}
+
+		</style>
+		   
+    </head>
+    <body class="home blog wp-custom-logo wide light loaded">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0.49803921568627"></fefuncr><fefuncg type="table" tableValues="0 0.49803921568627"></fefuncg><fefuncb type="table" tableValues="0 0.49803921568627"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 0.27843137254902"></fefuncg><fefuncb type="table" tableValues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0"></fefuncr><fefuncg type="table" tableValues="0 0.64705882352941"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.78039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.94901960784314"></fefuncg><fefuncb type="table" tableValues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.098039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.66274509803922"></fefuncg><fefuncb type="table" tableValues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><div id="page" class="site">
+      <a class="skip-link screen-reader-text" href="https://monlycee.net/#content">Aller au contenu</a>
+       <div id="wrapper">
+          <div id="preloader1" class="hp-loader">
+        <div class="hp-preloader-cube">
+        <div class="hp-cube1 hp-cube"></div>
+        <div class="hp-cube2 hp-cube"></div>
+        <div class="hp-cube4 hp-cube"></div>
+        <div class="hp-cube3 hp-cube"></div>
+    </div> </div>
+  <nav class="navbar navbar-expand-lg navbar-light custom ">
+	<div class="container">
+		<div class="header-logo">
+			<a href="https://monlycee.net/" class="navbar-brand custom-logo" rel="home" aria-current="page"><img width="4658" height="3321" src="./MonLycee.net_files/idf.png" class="custom-logo" alt="MonLycee.net" decoding="async" srcset="https://monlycee.net/wp-content/uploads/2022/01/idf.png 4658w, https://monlycee.net/wp-content/uploads/2022/01/idf-300x214.png 300w, https://monlycee.net/wp-content/uploads/2022/01/idf-1024x730.png 1024w, https://monlycee.net/wp-content/uploads/2022/01/idf-768x548.png 768w, https://monlycee.net/wp-content/uploads/2022/01/idf-1536x1095.png 1536w, https://monlycee.net/wp-content/uploads/2022/01/idf-2048x1460.png 2048w, https://monlycee.net/wp-content/uploads/2022/01/idf-1568x1118.png 1568w" sizes="(max-width: 4658px) 100vw, 4658px"></a>			<div class="custom-logo-link-url">  
+				<h2 class="site-title"><a class="site-title-name" href="https://monlycee.net/" rel="home">MonLycee.net</a>
+				</h2>
+			    			</div>
+		</div>
+
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Afficher/masquer la navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNavDropdown">
+			<div class="ml-auto">
+			<div class="menu-menuhaut-container"><ul class="nav navbar-nav mr-auto" data-smartmenus-id="16700762211330623"><li id="menu-item-52" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-52 nav-item"><a class="nav-link" href="https://monlycee.net/index.php/category/actualites/">Actualités</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51 nav-item"><a class="nav-link" href="https://monlycee.net/index.php/ressources-numeriques/">Ressources numériques</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50 nav-item"><a class="nav-link" href="https://monlycee.net/index.php/equipements-individuels/">Equipements individuels</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49 nav-item"><a class="nav-link" href="https://monlycee.net/index.php/guides/">Guides</a></li>
+<li class="nav-item menu-item main-header-btn hw"><a target="_self" class="busicare_header_btn" href="http://ent.iledefrance.fr/">Se connecter</a></li><li class="nav-item"><div class="header-module"></div></li></ul></div>      
+	        </div>
+		</div>
+	</div>
+</nav><section class="page-title-section">		
+		<style type="text/css">
+		.page-title-section .overlay
+		{
+
+		    background-color: rgba(0,0,0,0.6);
+		}
+	</style>
+		<div class="breadcrumb-overlay overlay">	
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12 col-md-12">
+                                                    	 	<div class="page-title">
+									<h1>Accueil</h1>
+                                        </div> 
+                          	 	                        </div>
+					</div>
+				</div>	
+                                </div>
+		</section>
+<div class="page-seperate"></div>
+                    <div id="content">
+       	
+<section class="section-space-page blog">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-7 col-sm-12 standard-view"><article id="post-6330" class="post post-6330 type-post status-publish format-standard sticky hentry category-actualites">	
+	     <div class="post-content">
+
+		<div class="entry-date remove-image">
+			<a href="https://monlycee.net//1970/01"><time>1 décembre 2022</time></a>
+		</div>
+
+    	<div class="entry-meta">
+    			</div>
+	</div>
+
+	<header class="entry-header">
+		<h3 class="entry-title"><a href="https://monlycee.net/index.php/2022/12/01/accompagnement-au-numerique/"><strong>Accompagnement au numérique</strong></a></h3>
+	</header>
+
+	<div class="entry-content">
+		
+        
+          <p>Avec le soutien de la Région Île-de-France, les enseignants franciliens peuvent désormais bénéficier d’un accompagnement au numérique à la SQOOL Académie, première académie entièrement dédiée aux enseignants. La SQOOL Académie propose des parcours transverses alternant réflexions théoriques, échanges entre pairs et mises en pratique concrètes pour aider les enseignants à tirer le meilleur parti du numérique, dans et en dehors de la classe. Ces parcours sont articulés autour de 4 blocs de compétences :· Comprendre les usages du numérique· Utiliser les outils numériques· Créer des ressources…</p>
+        
+
+          			 <p><a href="https://monlycee.net/index.php/2022/12/01/accompagnement-au-numerique/" class="more-link">Read More<i class="fa fa-long-arrow-right"></i></a></p>
+				</div>
+</article><article id="post-6248" class="post post-6248 type-post status-publish format-standard hentry category-non-classe">	
+	     <div class="post-content">
+
+		<div class="entry-date remove-image">
+			<a href="https://monlycee.net//1970/01"><time>25 novembre 2022</time></a>
+		</div>
+
+    	<div class="entry-meta">
+    			</div>
+	</div>
+
+	<header class="entry-header">
+		<h3 class="entry-title"><a href="https://monlycee.net/index.php/2022/11/25/attaques-en-deni-de-service-sur-monlycee-net/">Attaques en déni de service sur Monlycee.net</a></h3>
+	</header>
+
+	<div class="entry-content">
+		
+        
+          <p>Depuis jeudi 24 novembre, Monlycée.net subit de multiples attaques ciblées de grande envergure, qui ont pour but de rendre les services inaccessibles.Nos équipes techniques, ainsi que l’hébergeur OVH, mettent tout en œuvre pour contrer ce nouveau type d’attaque et rendre la plateforme à nouveau pleinement opérationnelle. Cordialement,L’équipe MonLycée.net</p>
+        
+
+          			 <p><a href="https://monlycee.net/index.php/2022/11/25/attaques-en-deni-de-service-sur-monlycee-net/" class="more-link">Read More<i class="fa fa-long-arrow-right"></i></a></p>
+				</div>
+</article><article id="post-5342" class="post post-5342 type-post status-publish format-standard hentry category-actualites tag-lyceesup-ressources tag-ressources-numeriques">	
+	     <div class="post-content">
+
+		<div class="entry-date remove-image">
+			<a href="https://monlycee.net//1970/01"><time>3 octobre 2022</time></a>
+		</div>
+
+    	<div class="entry-meta">
+    			</div>
+	</div>
+
+	<header class="entry-header">
+		<h3 class="entry-title"><a href="https://monlycee.net/index.php/2022/10/03/le-catalogue-de-la-region-ile-de-france-senrichit-avec-14-nouvelles-ressources-numeriques-educatives/">Le catalogue de la Région Île-de-France s’enrichit avec 14 nouvelles ressources numériques éducatives</a></h3>
+	</header>
+
+	<div class="entry-content">
+		
+        
+          <p>Les 27 et 28 septembre les enseignants franciliens ont été invités à assister à deux plénières de présentation des 14 ressources numériques mises à disposition par la Région Île-de-France depuis la rentrée 2022.</p>
+        
+
+          			 <p><a href="https://monlycee.net/index.php/2022/10/03/le-catalogue-de-la-region-ile-de-france-senrichit-avec-14-nouvelles-ressources-numeriques-educatives/" class="more-link">Read More<i class="fa fa-long-arrow-right"></i></a></p>
+				</div>
+</article><article id="post-4081" class="post post-4081 type-post status-publish format-standard has-post-thumbnail hentry category-actualites">	
+		<figure class="post-thumbnail mb-4">
+		<a href="https://monlycee.net/index.php/2022/09/08/le-budget-participatif-ecologique-4eme-edition/">
+			<img width="394" height="262" src="./MonLycee.net_files/budget-part.jpg" class="img-fluid wp-post-image" alt="" decoding="async" srcset="https://monlycee.net/wp-content/uploads/2022/09/budget-part.jpg 394w, https://monlycee.net/wp-content/uploads/2022/09/budget-part-300x199.jpg 300w" sizes="(max-width: 394px) 100vw, 394px">		</a>			
+	</figure>	
+	     <div class="post-content">
+
+		<div class="entry-date ">
+			<a href="https://monlycee.net//1970/01"><time>8 septembre 2022</time></a>
+		</div>
+
+    	<div class="entry-meta">
+    			</div>
+	</div>
+
+	<header class="entry-header">
+		<h3 class="entry-title"><a href="https://monlycee.net/index.php/2022/09/08/le-budget-participatif-ecologique-4eme-edition/">Le Budget participatif écologique – 4ème édition</a></h3>
+	</header>
+
+	<div class="entry-content">
+		
+        
+          <p>Votez et faites voter pour vos projets coups de cœur !Découvrez les 655 projets proposés pour la 4e édition du Budget participatif écologique de la Région Île-de-France et votez en ligne pour vos projets préférés jusqu’au 25 septembre. Démarche citoyenne d'une ampleur inédite, le Budget participatif invite associations, collectivités, lycées, structures publiques ou privées, ou toute personne morale, à soumettre leurs projets dans l’une de ces 6 thématiques :• L'alimentation• Les espaces verts et la biodiversité• Le vélo et les mobilités propres du…</p>
+        
+
+          			 <p><a href="https://monlycee.net/index.php/2022/09/08/le-budget-participatif-ecologique-4eme-edition/" class="more-link">Read More<i class="fa fa-long-arrow-right"></i></a></p>
+				</div>
+</article><article id="post-3456" class="post post-3456 type-post status-publish format-standard has-post-thumbnail hentry category-actualites">	
+		<figure class="post-thumbnail mb-4">
+		<a href="https://monlycee.net/index.php/2022/09/01/bonne-rentree-2022/">
+			<img width="500" height="356" src="./MonLycee.net_files/Monlyceenet-e1662035652975.png" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://monlycee.net/wp-content/uploads/2022/09/Monlyceenet-e1662035652975.png 500w, https://monlycee.net/wp-content/uploads/2022/09/Monlyceenet-e1662035652975-300x214.png 300w" sizes="(max-width: 500px) 100vw, 500px">		</a>			
+	</figure>	
+	     <div class="post-content">
+
+		<div class="entry-date ">
+			<a href="https://monlycee.net//1970/01"><time>1 septembre 2022</time></a>
+		</div>
+
+    	<div class="entry-meta">
+    			</div>
+	</div>
+
+	<header class="entry-header">
+		<h3 class="entry-title"><a href="https://monlycee.net/index.php/2022/09/01/bonne-rentree-2022/">Bonne rentrée 2022</a></h3>
+	</header>
+
+	<div class="entry-content">
+		
+        
+          <p>Depuis le 23 août 2022, Monlycee.net est alimenté quotidiennement avec les nouveaux AAF de l'année scolaire 2022-2023 fournis par les trois Académies de Créteil, Paris et Versailles et par la DRAF pour les lycées agricoles. La plateforme est restée ouverte tout l'été. Elle est déjà accessible aux enseignants et personnels non enseignants et le sera en soirée de ce jeudi 1er septembre pour les élèves, étudiants et leurs parents. Le Mediacentre a ouvert ses portes le 25 août et le 29 les affectations…</p>
+        
+
+          			 <p><a href="https://monlycee.net/index.php/2022/09/01/bonne-rentree-2022/" class="more-link">Read More<i class="fa fa-long-arrow-right"></i></a></p>
+				</div>
+</article><article id="post-2025" class="post post-2025 type-post status-publish format-standard has-post-thumbnail hentry category-actualites">	
+		<figure class="post-thumbnail mb-4">
+		<a href="https://monlycee.net/index.php/2022/06/15/viva-technology-15-au-18-juin-2022/">
+			<img width="1689" height="794" src="./MonLycee.net_files/Viva.png" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://monlycee.net/wp-content/uploads/2022/06/Viva.png 1689w, https://monlycee.net/wp-content/uploads/2022/06/Viva-300x141.png 300w, https://monlycee.net/wp-content/uploads/2022/06/Viva-1024x481.png 1024w, https://monlycee.net/wp-content/uploads/2022/06/Viva-768x361.png 768w, https://monlycee.net/wp-content/uploads/2022/06/Viva-1536x722.png 1536w" sizes="(max-width: 1689px) 100vw, 1689px">		</a>			
+	</figure>	
+	     <div class="post-content">
+
+		<div class="entry-date ">
+			<a href="https://monlycee.net//1970/01"><time>15 juin 2022</time></a>
+		</div>
+
+    	<div class="entry-meta">
+    			</div>
+	</div>
+
+	<header class="entry-header">
+		<h3 class="entry-title"><a href="https://monlycee.net/index.php/2022/06/15/viva-technology-15-au-18-juin-2022/">Viva Technology – 15 au 18 juin 2022</a></h3>
+	</header>
+
+	<div class="entry-content">
+		
+        
+          <p>La Région Île-de-France vous attend à l’évènement Viva Technology du 15 au 18 juin pour vous présenter ses innovations sur le lycée du futur ainsi qu'une expérience interactive sur l'Île-de-France. À cette occasion, venez nous rencontrer sur notre stand H18 pour des démonstrations et des pitchs entreprises des ressources numériques des lycées, ainsi que la découverte du jumeau numérique. Viva Technology est&nbsp;le plus grand rendez-vous européen des start-up, de la tech et de l’innovation. La Région non seulement le soutient, mais elle y…</p>
+        
+
+          			 <p><a href="https://monlycee.net/index.php/2022/06/15/viva-technology-15-au-18-juin-2022/" class="more-link">Read More<i class="fa fa-long-arrow-right"></i></a></p>
+				</div>
+</article><article id="post-1924" class="post post-1924 type-post status-publish format-standard hentry category-actualites">	
+	     <div class="post-content">
+
+		<div class="entry-date remove-image">
+			<a href="https://monlycee.net//1970/01"><time>8 juin 2022</time></a>
+		</div>
+
+    	<div class="entry-meta">
+    			</div>
+	</div>
+
+	<header class="entry-header">
+		<h3 class="entry-title"><a href="https://monlycee.net/index.php/2022/06/08/forum-de-lalternance-14-juin-2022/">Forum de l’alternance – 14 juin 2022</a></h3>
+	</header>
+
+	<div class="entry-content">
+		
+        
+          <p>La Région Île-de-France et la FNADIR (Fédération nationale des directeurs de CFA/OFA) s’engagent pour promouvoir l’apprentissage en organisant le mardi 14 juin un forum de l’alternance à destination des jeunes franciliens au sein des locaux du siège de la Région à Saint-Ouen. La première édition de ce forum aura pour but de faire découvrir aux jeunes lycées de la seconde à la terminale, mais aussi aux jeunes franciliens en recherche de formation, les offres et parcours des organismes de formation dispensant des formations…</p>
+        
+
+          			 <p><a href="https://monlycee.net/index.php/2022/06/08/forum-de-lalternance-14-juin-2022/" class="more-link">Read More<i class="fa fa-long-arrow-right"></i></a></p>
+				</div>
+</article><article id="post-1067" class="post post-1067 type-post status-publish format-standard hentry category-non-classe">	
+	     <div class="post-content">
+
+		<div class="entry-date remove-image">
+			<a href="https://monlycee.net//2022/03"><time>16 mars 2022</time></a>
+		</div>
+
+    	<div class="entry-meta">
+    			</div>
+	</div>
+
+	<header class="entry-header">
+		<h3 class="entry-title"><a href="https://monlycee.net/index.php/2022/03/16/2e-edition-du-printemps-de-lorientation-en-ile-de-france/">2e édition du Printemps de l’orientation en Île-de-France</a></h3>
+	</header>
+
+	<div class="entry-content">
+		
+        
+          <p>Le ministère de l’Education nationale, de la Jeunesse et des Sports et l’Onisep organisent pour la deuxième année consécutive le « Printemps de l’orientation » . Mobilisant l'ensemble des acteurs du monde éducatif, il vise à permettre aux élèves de découvrir les secteurs d’activités, métiers et formations afin d’élaborer leur projet d'études et s'intègre dans les heures dédiées à l’orientation. En Île-de-France, la semaine du 14 au 18 mars 2022 constitue le temps fort du Printemps de l’orientation. La Région Île-de-France s’associe à…</p>
+        
+
+          			 <p><a href="https://monlycee.net/index.php/2022/03/16/2e-edition-du-printemps-de-lorientation-en-ile-de-france/" class="more-link">Read More<i class="fa fa-long-arrow-right"></i></a></p>
+				</div>
+</article><article id="post-1059" class="post post-1059 type-post status-publish format-standard hentry category-actualites">	
+	     <div class="post-content">
+
+		<div class="entry-date remove-image">
+			<a href="https://monlycee.net//2022/03"><time>16 mars 2022</time></a>
+		</div>
+
+    	<div class="entry-meta">
+    			</div>
+	</div>
+
+	<header class="entry-header">
+		<h3 class="entry-title"><a href="https://monlycee.net/index.php/2022/03/16/tout-savoir-sur-le-concours-inter-lyceens-my-planet-mein-planet-mi-planeta-my-planet-du-21-mars-au-2-avril/">Tout savoir sur le concours inter-lycéens «&nbsp;My planet – Mein Planet – Mi planeta&nbsp;»  My planet du 21 mars au 1er avril et ses gagnants</a></h3>
+	</header>
+
+	<div class="entry-content">
+		
+        
+          <p>La Région Île-de-France a le plaisir de vous annoncer les gagnants du concours Régional d'anglais, d’espagnol et d'allemand inter-lycées "Qioz my planet".&nbsp;And the winner is… La classe d’anglais première 92 du lycée de la Vallée de Chevreuse. Félicitation&nbsp;! En deuxième position, un grand bravo, à la classe d’anglais première 11G du lycée&nbsp;Galilée – Gennevilliers. On se retrouve très prochainement pour la remise des lots. Ce concours flash était organisé sur 2 semaines du lundi 21 mars au vendredi 1er avril et invitait tous…</p>
+        
+
+          			 <p><a href="https://monlycee.net/index.php/2022/03/16/tout-savoir-sur-le-concours-inter-lyceens-my-planet-mein-planet-mi-planeta-my-planet-du-21-mars-au-2-avril/" class="more-link">Read More<i class="fa fa-long-arrow-right"></i></a></p>
+				</div>
+</article><article id="post-676" class="post post-676 type-post status-publish format-standard hentry category-actualites">	
+	     <div class="post-content">
+
+		<div class="entry-date remove-image">
+			<a href="https://monlycee.net//2022/03"><time>3 mars 2022</time></a>
+		</div>
+
+    	<div class="entry-meta">
+    			</div>
+	</div>
+
+	<header class="entry-header">
+		<h3 class="entry-title"><a href="https://monlycee.net/index.php/2022/03/03/information-securite-importante/">Information sécurité importante</a></h3>
+	</header>
+
+	<div class="entry-content">
+		
+        
+          <p>Dans un contexte de cyberattaque, nous tenons plus que jamais à renforcer la sécurité de nos plateformes. Nous avons récemment détecté une action malveillante sur la plateforme Monlycee.net.&nbsp; Par mesure de précaution, la région Ile-de-France, en collaboration avec les académies de Paris, Versailles et Créteil, a lancé une campagne de réinitialisation de mots de passe pour tous les utilisateurs de la plateforme Monlycee.net De ce fait, lors de votre prochaine connexion, vos identifiant et mot de passe ne seront plus reconnus. Afin de…</p>
+        
+
+          			 <p><a href="https://monlycee.net/index.php/2022/03/03/information-securite-importante/" class="more-link">Read More<i class="fa fa-long-arrow-right"></i></a></p>
+				</div>
+</article><div class="row justify-content-center">
+	<nav class="navigation pagination" aria-label="Publications">
+		<h2 class="screen-reader-text">Navigation des articles</h2>
+		<div class="nav-links"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://monlycee.net/index.php/page/2/">2</a>
+<a class="next page-numbers" href="https://monlycee.net/index.php/page/2/"><i class="fa fa-angle-double-right"></i></a></div>
+	</nav></div>        </div>	
+        	<div class="col-lg-4 col-md-4 col-sm-12">
+		<div class="sidebar s-l-space">
+			
+		<aside id="recent-posts-2" class="widget widget_recent_entries">
+		<h3 class="widget-title">Articles récents</h3>
+		<ul>
+											<li>
+					<a href="https://monlycee.net/index.php/2022/12/01/accompagnement-au-numerique/"><strong>Accompagnement au numérique</strong></a>
+									</li>
+											<li>
+					<a href="https://monlycee.net/index.php/2022/11/25/attaques-en-deni-de-service-sur-monlycee-net/">Attaques en déni de service sur Monlycee.net</a>
+									</li>
+											<li>
+					<a href="https://monlycee.net/index.php/2022/10/03/le-catalogue-de-la-region-ile-de-france-senrichit-avec-14-nouvelles-ressources-numeriques-educatives/">Le catalogue de la Région Île-de-France s’enrichit avec 14 nouvelles ressources numériques éducatives</a>
+									</li>
+											<li>
+					<a href="https://monlycee.net/index.php/2022/09/08/le-budget-participatif-ecologique-4eme-edition/">Le Budget participatif écologique – 4ème édition</a>
+									</li>
+											<li>
+					<a href="https://monlycee.net/index.php/2022/09/01/bonne-rentree-2022/">Bonne rentrée 2022</a>
+									</li>
+					</ul>
+
+		</aside>								
+		</div>
+	</div>
+    </div>
+</div></section>   
+<footer class="site-footer">  
+  <div class="container">
+        <div class="seprator-line"></div>   
+      <div class="row footer-sidebar footer-typo">
+    <div class="col-lg-6 col-md-6 col-sm-12"><aside id="block-5" class="widget widget_block widget_media_image">
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="730" src="./MonLycee.net_files/idf-1024x730.png" alt="" class="wp-image-53" srcset="https://monlycee.net/wp-content/uploads/2022/01/idf-1024x730.png 1024w, https://monlycee.net/wp-content/uploads/2022/01/idf-300x214.png 300w, https://monlycee.net/wp-content/uploads/2022/01/idf-768x548.png 768w, https://monlycee.net/wp-content/uploads/2022/01/idf-1536x1095.png 1536w, https://monlycee.net/wp-content/uploads/2022/01/idf-2048x1460.png 2048w, https://monlycee.net/wp-content/uploads/2022/01/idf-1568x1118.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
+</aside></div><div class="col-lg-6 col-md-6 col-sm-12"><aside id="block-8" class="widget widget_block">
+<div class="is-layout-flex wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://monlycee.net/index.php/formulaire-de-contact/">Formulaire de contact</a></div>
+</div>
+</aside></div></div>  
+  </div>
+    <div class="site-info text-center">
+       
+     <p>Fièrement propulsé par <a href="https://wordpress.org/">WordPress</a> | Thème&nbsp;: <a href="https://spicethemes.com/busicare-wordpress-theme/">BusiCare</a> par <a href="https://spicethemes.com/">SpiceThemes</a></p> 
+  </div>
+ <style type="text/css">
+            .testimonial .overlay {
+            background-color:rgba(1, 7, 12, 0.7);
+        }
+        
+        
+    </style>
+    <div class="scroll-up custom right"><a href="https://monlycee.net/#totop"><i class="fa fa-arrow-up"></i></a></div>
+</footer>
+</div>
+</div>
+</div>
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true" data-cli-style="cli-style-v2" style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: inherit; bottom: 0px; position: fixed; display: none;"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">Ce site n'utilise que des cookies absolument nécessaires. Ces cookies n'enregistrent aucune donnée personnelle.</div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true" style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); position: fixed; font-family: inherit; width: auto; bottom: 0px; right: 100px; display: none;"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Fermer</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the ...</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Voir plus" role="button" data-readmore-text="Voir plus" data-readless-text="Voir moins"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="obligatoires" data-toggle="cli-toggle-tab">
+								Cookies obligatoires							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-obligatoires" class="cli-user-preference-checkbox" data-id="checkbox-obligatoires" checked="checked">
+									<label for="wt-cli-checkbox-obligatoires" class="cli-slider" data-cli-enable="Activé" data-cli-disable="Désactivé"><span class="wt-cli-sr-only">Cookies obligatoires</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="obligatoires">
+								<div class="wt-cli-cookie-description">
+									Ils sont strictement nécessaires au bon fonctionnement de ce site et des informations publiées (cookies de session).								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="statistiques" data-toggle="cli-toggle-tab">
+								Cookies de suivi statistiques							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-statistiques" class="cli-user-preference-checkbox" data-id="checkbox-statistiques" checked="checked">
+									<label for="wt-cli-checkbox-statistiques" class="cli-slider" data-cli-enable="Activé" data-cli-disable="Désactivé"><span class="wt-cli-sr-only">Cookies de suivi statistiques</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="statistiques">
+								<div class="wt-cli-cookie-description">
+									Ils permettent d'analyser la fréquentation du site pour optimiser son contenu et sa navigation. 								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">Enregistrer &amp; appliquer</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all-->        <style type="text/css">
+            .title span {
+                color: #00afec;
+            }
+
+            a:hover {color: #00afec;}
+            .entry-meta a:hover {color: #00afec;}
+
+            dl dd a, dl dd a:hover, dl dd a:focus, ul li a:focus { color: #00afec; }
+
+            button,
+            input[type="button"],
+            input[type="submit"] {
+                background-color: #00afec;
+            }
+
+            .btn-default {
+                background: #00afec;
+                border: 1px solid #00afec; 
+            }
+
+            .btn-light:hover, .btn-light:focus {
+                background: #00afec; 
+                border: 1px solid #00afec; 
+            }
+
+            .btn-default-dark { background: #00afec; }
+
+            .btn-border {
+                border: 2px solid #00afec;
+            }
+
+
+            .btn-border:hover, .btn-border:focus {
+                border: 2px solid #00afec;
+            }
+
+
+            a:focus { 
+                color: #00afec;       
+            }
+
+            .custom-social-icons li > a:focus {
+                background-color: #00afec;
+            }
+
+            .custom-social-icons li > a {
+                color: #00afec;
+            }
+
+            .contact .custom-social-icons li > a:hover, .contact .custom-social-icons li > a:focus {
+                background-color: #00afec;
+            }
+
+            .custom-social-icons li > a:hover, 
+            .custom-social-icons li > a:focus {
+                background-color: #00afec;
+            }
+
+            #searchbar_fullscreen .btn {
+                background-color: #00afec;
+            }
+            
+            .screen-reader-text:focus {
+                color: #00afec;
+            }
+
+            .cart-header {
+                background-color: #00afec;
+            }
+
+            .cart-header > a .cart-total {
+                background: #00afec;
+            }
+
+             
+                .slider-caption .heading {
+                    border-left: 4px solid #00afec;
+                }
+            
+            .slider-caption .heading {
+                border-left: 4px solid #00afec;
+            }
+
+            .pointer-scroll {
+                background: #00afec;
+            }
+
+            .owl-carousel .owl-prev:hover, 
+            .owl-carousel .owl-prev:focus { 
+                background-color: #00afec;
+            }
+
+            .owl-carousel .owl-next:hover, 
+            .owl-carousel .owl-next:focus { 
+                background-color: #00afec;
+            }
+
+            .cta_content, .cta_main {background-color: #00afec; }
+
+            .cta_content .btn-light {
+                color: #00afec;
+            }
+
+            .cta_content a:after {
+                color: #00afec;
+            }
+
+            .text-default { color: #00afec; }
+
+            .entry-header .entry-title a:focus {
+                color: #00afec !important; 
+            }
+
+            .services .post:hover .post-thumbnail i.fa {
+                border: 1px solid #00afec;
+                background-color: #00afec;
+            }
+
+            .filter-tabs .nav-item.active{
+                background-color: #00afec;
+            }
+
+            .filter-tabs li:focus, .filter-tabs li:hover{background-color: #00afec;}
+
+            .filter-tabs .nav-link:focus, .filter-tabs .nav-link:hover {
+                background-color: #00afec;
+            }
+
+            .funfact-icon .fa{
+                color: #00afec;
+            }
+
+            .page-breadcrumb li a:hover{
+                color:#00afec;
+            }
+
+            .blog .post .entry-date a {
+                background-color: #00afec;
+            }
+
+            .entry-meta a :hover{
+                color:#00afec;
+            }
+
+            .sidebar .widget .widget-title{
+                background-color:#00afec; 
+            }
+
+            .sidebar .input-group .form-control {
+                border-color: #00afec ;
+            }
+
+            .navbar .nav .nav-item a:focus{
+                color: #00afec;
+            }
+
+            .sidebar .widget_categories li::before , 
+            .sidebar .widget_archive li::before ,
+            .sidebar .widget_recent_entries li::before ,
+            .sidebar .widget_meta li::before,
+            .sidebar .widget_recent_comments li::before 
+            {
+                color: #00afec;
+            }
+            
+            .sidebar .widget_categories li a:hover , 
+            .sidebar .widget_archive li a:hover ,
+            .sidebar .widget_recent_entries li a:hover ,
+            .sidebar .widget_meta li a:hover,
+            .sidebar .widget_recent_comments li a:hover,
+            .sidebar .widget li a:focus,
+            .dropdown-item a:focus{
+                color: #00afec;
+            }
+
+            .testmonial-block .avatar img {
+                box-shadow: #00afec 0px 0px 0px 1px; 
+            }
+
+            .products .onsale {
+                background: #00afec;
+                border: 2px solid #00afec;
+            }
+            
+            /*product page & product detail*/
+            .added_to_cart.wc-forward:hover, .woocommerce .posted_in a:hover{
+                color: #00afec;
+            }
+
+            .woocommerce-loop-product__title:hover {color:#00afec;}
+            
+            .woocommerce ul.product_list_widget li a:hover{
+                        color: #00afec;
+            }
+            
+            .site-footer .woocommerce ul.product_list_widget li a{
+                        color: #00afec;
+            }
+            
+            .sidebar .woocommerce ul.product_list_widget .star-rating{
+                color: #00afec;
+            }
+
+            .dropdown-menu li.active a{color:#00afec; }
+            .dropdown-menu li.active ul li.active a{color: #00afec;}
+            .dropdown-menu li.active ul li a:hover{color: #00afec;}
+
+            .sidebar .wp-block-search .wp-block-search__label,.sidebar .widget.widget_block h1,.sidebar .widget.widget_block h2,.sidebar .widget.widget_block h3,.sidebar .widget.widget_block h4,.sidebar .widget.widget_block h5,.sidebar .widget.widget_block h6{background-color: #00afec;}
+
+            .widget .wp-block-search .wp-block-search__input {border-color: #00afec;}
+
+            .widget .wp-block-search .wp-block-search__button {background-color: #00afec;}
+
+            .sidebar .widget li:before {color: #00afec;}
+
+            .widget .wp-block-tag-cloud a:hover{background-color: #00afec;}
+
+            .footer-sidebar .wp-block-search .wp-block-search__label,.footer-sidebar .widget.widget_block h1,.footer-sidebar .widget.widget_block h2,.footer-sidebar .widget.widget_block h3,.footer-sidebar .widget.widget_block h4,.footer-sidebar .widget.widget_block h5,.footer-sidebar .widget.widget_block h6{  color: #00afec;}
+            
+            .sidebar .widget li a:hover,.footer-sidebar .widget li a:hover{color:#00afec;}
+
+            .add-to-cart a {
+                background: #00afec;
+            }
+
+            .team-grid .position { 
+                color: #00afec; 
+            }
+
+            .team-grid .custom-social-icons li > a:hover {
+                background-color: #00afec;
+            }
+
+            .title_seprater {
+                background-color: #00afec;
+            }
+
+            .section-header .section-title-two span
+            {
+                color: #00afec;
+            }
+
+            .footer-sidebar li:hover a{color:#00afec;}
+
+            .footer-sidebar address a:focus {color:#00afec;}
+
+            .footer-sidebar .widget .widget-title {
+                color:#00afec;
+            }
+
+            .site-info{
+                background-color: #00afec;
+            }
+
+            .footer-sidebar .widget li:hover::before{color:#00afec}
+
+            .blog .pagination a.active {
+                background-color: #00afec;
+            }
+
+            .blog .pagination a:hover:not(.active),
+            .blog .pagination a:focus:not(.active) {background-color:#00afec;}
+
+            .portfolio .pagination a.active {
+                background-color: #00afec;
+            }
+
+            .portfolio .pagination a:hover:not(.active),
+            .portfolio .pagination a:focus:not(.active) {background-color:#00afec;}
+
+            .portfolio .post:hover .click-view{
+                background-color: #00afec;
+            }
+
+            .contact .title h4{
+                background-color: #00afec;
+            }
+
+            .sidebar .contact .widget-cont-title {
+                background-color: #00afec;
+            }
+            input[type="text"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="number"]:focus, input[type="tel"]:focus, input[type="range"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="time"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="color"]:focus, textarea:focus {
+                border-color: #00afec;
+            }
+
+            .cont address > i.fa {
+                color: #00afec;
+            }
+
+            .cont a:hover, .cont a:focus {
+                color: #00afec;
+            }
+
+            .error-page .title {
+                color: #00afec;
+            }
+
+            .error-page h4 {
+                color: #00afec;
+            }
+
+            .error-page .not-found-btn a {
+                background-color: #00afec;
+            }
+
+            .scroll-up a {
+                background: #00afec;
+            }
+
+            .scroll-up a:hover,
+            .scroll-up a:active {
+                background:#00afec;
+            }
+
+            /*SmartMenu Bootstrap*/
+            .navbar .nav .nav-item:hover .nav-link, 
+            .navbar .nav .nav-item.active .nav-link {
+                color: #00afec;
+            }
+
+            /*slider dot*/
+            .owl-theme .owl-dots .owl-dot.active span {
+                background-color: #00afec;
+            }
+
+
+            /*WooCommerce Style*/
+            .woocommerce-loop-product__title a{color:#00afec;}
+            .woocommerce ul.products li.product .onsale, .products span.onsale
+            {
+                background: #00afec;
+                border: 2px solid #00afec;
+            }
+            .woocommerce ul.products li.product .onsale, .woocommerce span.onsale{
+                background: #00afec !important;
+            }
+
+            .woocommerce ul.products li.product .button, .owl-item .item .cart .add_to_cart_button {
+                background: #00afec;
+            }
+
+            .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current {
+                background: #00afec !important;
+            }
+
+            .woocommerce div.product form.cart .button, .woocommerce a.button, .woocommerce a.button:hover, .woocommerce a.button, .woocommerce .woocommerce-Button, .woocommerce .cart input.button, .woocommerce input.button.alt, .woocommerce button.button, .woocommerce #respond input#submit, .woocommerce .cart input.button:hover, .woocommerce .cart input.button:focus, .woocommerce input.button.alt:hover, .woocommerce input.button.alt:focus, .woocommerce input.button:hover, .woocommerce input.button:focus,  .woocommerce button.button:focus, .woocommerce #respond input#submit:focus, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
+                background: #00afec;
+            }
+            .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce input.button.alt:hover {
+                background: #00afec;
+            }
+            .woocommerce-message, .woocommerce-info {
+                border-top-color: #00afec;
+            }
+            .woocommerce-message::before, .woocommerce-info::before {
+                color: #00afec;
+            }
+            .woocommerce div.product .stock {
+                color: #00afec;
+            }
+            .woocommerce p.stars a {
+                color: #00afec;
+            }
+            .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+                background: #00afec;
+            }
+            /*Woocommerce style*/
+
+            /*Contact SideBar*/
+            .sidebar_contact .contact_search .widget-cont-title {
+                background-color: #00afec;
+            }
+            /*Contact SideBar*/
+
+            .filter-tabs .nav-item.show .nav-link, .filter-tabs .nav-link.active, .filter-tabs .nav-link:hover {
+                background-color: #00afec;
+            }
+
+            /*Menu Search Effect*/
+            .search-form input[type="submit"] {
+                background: #00afec repeat scroll 0 0;
+                border: 1px solid #00afec;
+            }
+
+            .navbar .search-box-outer .dropdown-menu {
+                border-top: solid 1px #00afec;
+            }
+
+            .btn-primary {
+                background-color: #00afec;
+                border-color: #00afec;
+            }
+
+            .btn-primary:hover {
+                background-color: #00afec;
+                border-color: #00afec;
+            }
+
+            .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle,.btn-primary:focus {
+                background-color: #00afec;
+                border-color: #00afec;
+            }
+
+            .pagination .nav-links .page-numbers.current {
+                background-color: #00afec;
+            }
+
+            .sidebar .widget_meta li a:hover{
+                color: #00afec;
+            }
+
+            .dropdown-item a:focus{
+                color: #00afec;
+            }
+
+            /*menu*/
+            .dropdown-item.active, .dropdown-item:active,.dropdown-item:hover {
+                background-color: transparent;
+                color:#00afec;
+            }
+
+            body .product-price h5 > a{
+                color:#00afec;
+            }
+            
+            .related-posts .entry-title a:hover{
+                color: #00afec;
+            }
+            
+            .section-space.services .entry-header .entry-title a:hover{
+                        color: #00afec;
+            }
+            
+            .sidebar .widget_product_search .search-field , .site-footer .widget_product_search .search-field{
+                border-color: #00afec;
+            }
+            
+            .sidebar .widget_nav_menu li a:hover ,
+            .sidebar .widget_pages li a:hover ,
+            .sidebar .widget_product_categories li a:hover ,
+            .sidebar .widget_links li a:hover {
+                color: #00afec;
+            }
+            
+            .sidebar .widget_nav_menu li::before ,
+            .sidebar .widget_pages li::before ,
+            .sidebar .widget_product_categories li::before ,
+            .sidebar .widget_links li::before {
+                color: #00afec;
+            }
+            .sidebar .widget .custom-social-icons li > a:hover {background-color: #00afec;}
+            .sidebar .widget .head-contact-info a:hover {color: #00afec;}
+            
+            .sidebar .widget .tagcloud a:hover, .site-footer .widget .tagcloud a:hover{
+                background-color: #00afec;
+            }
+            
+
+            .widget_nav_menu li a:hover , 
+            .widget_pages li a:hover ,
+            .widget_product_categories li a:hover ,
+            .widget_links li a:hover ,
+            .widget_categories li a:hover , 
+            .widget_archive li a:hover ,
+            .widget_recent_entries li a:hover ,
+            .widget_meta li a:hover,
+            .widget_recent_comments li a:hover,
+            .widget li a:focus,
+            .dropdown-item a:focus,
+            .navbar .nav .nav-item a:focus
+            {
+                color: #00afec;
+            }
+            .widget_nav_menu li::before , 
+            .widget_pages li::before ,
+            .widget_product_categories li::before ,
+            .widget_links li::before ,
+            .widget_categories li::before , 
+            .widget_archive li::before ,
+            .widget_recent_entries li::before ,
+            .widget_meta li::before,
+            .widget_recent_comments li::before 
+            {
+                color: #00afec;
+            }
+
+            .widget .input-group .form-control ,.woocommerce-product-search .search-field {
+                border-color: #00afec;
+            }
+            
+            .woocommerce .widget_price_filter .ui-slider .ui-slider-range {background-color: #00afec;}
+            .woocommerce .widget_price_filter .ui-slider .ui-slider-handle {background-color: #ec6a00;}
+
+            .blog .post .entry-content a{
+                color: #00afec;
+            }
+            .comment-section .media-body a,.textwidget a{color:#00afec;} 
+            .blog.page blockquote:before{
+                color: #00afec26;
+                border-left: 4px solid #00afec;
+            }
+            .blog .post .entry-content a.more-link:hover{
+                color: #00afec;
+            }
+            .dark .blog .post .entry-content a.more-link.btn-ex-small.btn-border:hover{color: #00afec;}
+            .dark .sticky .entry-meta a:hover{color: #00afec;}
+            .home-blog h3 a:hover{color:#00afec;}
+            .busicare_header_btn { background-color: #00afec;}
+            .navbar .nav .nav-item.html a:hover{color: #00afec;}
+            .dark .navbar.navbar5 .nav .dropdown-menu .text-dark {color:#00afec !important; }
+            .hp-preloader-cube .hp-cube:before {background: #00afec;}
+        </style>
+        <script type="text/javascript" id="wpo_min-footer-0-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/monlycee.net\/index.php\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./MonLycee.net_files/wpo-minify-footer-3e8921e7.min.js.télécharger" id="wpo_min-footer-0-js"></script>
+    <script>
+    /(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+    </script>
+        <script>
+
+    jQuery('a,input').bind('focus', function() {
+             if(!jQuery(this).closest(".menu-item").length ) {
+                jQuery("li.dropdown ul").css("display", "none");
+            }
+    });  
+       
+    jQuery('a,input').bind('focus', function() {
+    if(!jQuery(this).closest(".menu-item").length && !jQuery(this).closest(".search-box-outer").length && ( jQuery(window).width() <= 992) ) {
+                jQuery('.navbar-collapse').removeClass('show');
+        }
+    })
+    </script>
+	
+
+
+
+</body></html>
